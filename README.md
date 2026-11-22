@@ -1,2 +1,2 @@
-# psychopy-experiments
+# Visual Search
 Psychology laboratory experiments created using PsychoPy.
